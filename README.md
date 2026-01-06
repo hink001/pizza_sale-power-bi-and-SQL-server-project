@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-### This project analyzes pizza sales data to find useful business insights.
+** This project analyzes pizza sales data to find useful business insights.
 I used Microsoft SQL Server to clean and analyze the data, and Power BI to create an interactive dashboard.
 
 The main goal is to understand:
@@ -23,7 +23,7 @@ Microsoft SQL Server – for data analysis using SQL queries
 
 Power BI – for data visualization and dashboard creation
 
-Excel / CSV – as the data source
+Excel / CSV – as the data source **
 
 📂 Dataset Description
 
